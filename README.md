@@ -8,7 +8,7 @@ This book is written in Chinese for Chinese PHP programmers (entry to intermedia
 
 We will build from scratch a RESTful API site with Silex to provide all the necessary data used in my [rsywx.net](https://rsywx.net) site.
 
-我们将学习用Silex来从头建立一个RESTful API站点，并提供必要的数据用于rsywx.net站点中。
+我们将学习用Silex来从头建立一个RESTful API站点，并提供必要的数据用于[rsywx.net](rsywx.net)站点中。
 
 A detailed explanation on how to use Symfony 3 to build a book collection site (which is exactly what rsywx.net is doing) can be found [here](). 
 
