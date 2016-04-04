@@ -10,7 +10,10 @@ We will build from scratch a RESTful API site with Silex to provide all the nece
 
 我们将学习用Silex来从头建立一个RESTful API站点，并提供必要的数据用于[rsywx.net](rsywx.net)站点中。
 
-A detailed explanation on how to use Symfony 3 to build a book collection site (which is exactly what rsywx.net is doing) can be found [here](). 
+A detailed explanation on how to use Symfony 3 to build a book collection site (which is exactly what rsywx.net is doing) can be found [here](https://www.gitbook.com/book/taylorr/building-a-web-site-with-symfony/details).
+
+有关如何使用Symfony 3来创建一个图书收藏站点（也就是rsywx.net所提供的功能）的细节可以在[此处](https://www.gitbook.com/book/taylorr/building-a-web-site-with-symfony/details)找到。 
+
 
 Let's get started!
 
